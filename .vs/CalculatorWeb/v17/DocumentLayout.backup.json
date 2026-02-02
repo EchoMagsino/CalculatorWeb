@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\CalculatorWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E60C6331-E467-4C5A-9342-8E7A9FA3EDA5}|CalculatorWeb\\CalculatorWeb.csproj|c:\\users\\lenovo\\source\\repos\\calculatorweb\\calculatorweb\\views\\subtraction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E60C6331-E467-4C5A-9342-8E7A9FA3EDA5}|CalculatorWeb\\CalculatorWeb.csproj|solutionrelative:calculatorweb\\views\\subtraction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E60C6331-E467-4C5A-9342-8E7A9FA3EDA5}|CalculatorWeb\\CalculatorWeb.csproj|c:\\users\\lenovo\\source\\repos\\calculatorweb\\calculatorweb\\controllers\\subtractioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E60C6331-E467-4C5A-9342-8E7A9FA3EDA5}|CalculatorWeb\\CalculatorWeb.csproj|solutionrelative:calculatorweb\\controllers\\subtractioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E60C6331-E467-4C5A-9342-8E7A9FA3EDA5}|CalculatorWeb\\CalculatorWeb.csproj|c:\\users\\lenovo\\source\\repos\\calculatorweb\\calculatorweb\\views\\addition\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E60C6331-E467-4C5A-9342-8E7A9FA3EDA5}|CalculatorWeb\\CalculatorWeb.csproj|solutionrelative:calculatorweb\\views\\addition\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E60C6331-E467-4C5A-9342-8E7A9FA3EDA5}|CalculatorWeb\\CalculatorWeb.csproj|c:\\users\\lenovo\\source\\repos\\calculatorweb\\calculatorweb\\models\\addition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E60C6331-E467-4C5A-9342-8E7A9FA3EDA5}|CalculatorWeb\\CalculatorWeb.csproj|solutionrelative:calculatorweb\\models\\addition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E60C6331-E467-4C5A-9342-8E7A9FA3EDA5}|CalculatorWeb\\CalculatorWeb.csproj|c:\\users\\lenovo\\source\\repos\\calculatorweb\\calculatorweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E60C6331-E467-4C5A-9342-8E7A9FA3EDA5}|CalculatorWeb\\CalculatorWeb.csproj|solutionrelative:calculatorweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E60C6331-E467-4C5A-9342-8E7A9FA3EDA5}|CalculatorWeb\\CalculatorWeb.csproj|c:\\users\\lenovo\\source\\repos\\calculatorweb\\calculatorweb\\controllers\\additioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E60C6331-E467-4C5A-9342-8E7A9FA3EDA5}|CalculatorWeb\\CalculatorWeb.csproj|solutionrelative:calculatorweb\\controllers\\additioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E60C6331-E467-4C5A-9342-8E7A9FA3EDA5}|CalculatorWeb\\CalculatorWeb.csproj|c:\\users\\lenovo\\source\\repos\\calculatorweb\\calculatorweb\\models\\subtraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E60C6331-E467-4C5A-9342-8E7A9FA3EDA5}|CalculatorWeb\\CalculatorWeb.csproj|solutionrelative:calculatorweb\\models\\subtraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E60C6331-E467-4C5A-9342-8E7A9FA3EDA5}|CalculatorWeb\\CalculatorWeb.csproj|c:\\users\\lenovo\\source\\repos\\calculatorweb\\calculatorweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E60C6331-E467-4C5A-9342-8E7A9FA3EDA5}|CalculatorWeb\\CalculatorWeb.csproj|solutionrelative:calculatorweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E60C6331-E467-4C5A-9342-8E7A9FA3EDA5}|CalculatorWeb\\CalculatorWeb.csproj|c:\\users\\lenovo\\source\\repos\\calculatorweb\\calculatorweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E60C6331-E467-4C5A-9342-8E7A9FA3EDA5}|CalculatorWeb\\CalculatorWeb.csproj|solutionrelative:calculatorweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E60C6331-E467-4C5A-9342-8E7A9FA3EDA5}|CalculatorWeb\\CalculatorWeb.csproj|c:\\users\\lenovo\\source\\repos\\calculatorweb\\calculatorweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E60C6331-E467-4C5A-9342-8E7A9FA3EDA5}|CalculatorWeb\\CalculatorWeb.csproj|solutionrelative:calculatorweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:43751364:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:760778683:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\CalculatorWeb\\CalculatorWeb\\Views\\Subtraction\\Index.cshtml",
+              "RelativeDocumentMoniker": "CalculatorWeb\\Views\\Subtraction\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\CalculatorWeb\\CalculatorWeb\\Views\\Subtraction\\Index.cshtml*",
+              "RelativeToolTip": "CalculatorWeb\\Views\\Subtraction\\Index.cshtml*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-02T00:38:16.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SubtractionController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\CalculatorWeb\\CalculatorWeb\\Controllers\\SubtractionController.cs",
+              "RelativeDocumentMoniker": "CalculatorWeb\\Controllers\\SubtractionController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\CalculatorWeb\\CalculatorWeb\\Controllers\\SubtractionController.cs",
+              "RelativeToolTip": "CalculatorWeb\\Controllers\\SubtractionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T00:34:46.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Subtraction.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\CalculatorWeb\\CalculatorWeb\\Models\\Subtraction.cs",
+              "RelativeDocumentMoniker": "CalculatorWeb\\Models\\Subtraction.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\CalculatorWeb\\CalculatorWeb\\Models\\Subtraction.cs",
+              "RelativeToolTip": "CalculatorWeb\\Models\\Subtraction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T00:32:58.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\CalculatorWeb\\CalculatorWeb\\Views\\Addition\\Index.cshtml",
+              "RelativeDocumentMoniker": "CalculatorWeb\\Views\\Addition\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\CalculatorWeb\\CalculatorWeb\\Views\\Addition\\Index.cshtml*",
+              "RelativeToolTip": "CalculatorWeb\\Views\\Addition\\Index.cshtml*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-01T23:37:27.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdditionController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\CalculatorWeb\\CalculatorWeb\\Controllers\\AdditionController.cs",
+              "RelativeDocumentMoniker": "CalculatorWeb\\Controllers\\AdditionController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\CalculatorWeb\\CalculatorWeb\\Controllers\\AdditionController.cs",
+              "RelativeToolTip": "CalculatorWeb\\Controllers\\AdditionController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T23:25:36.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\CalculatorWeb\\CalculatorWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CalculatorWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\CalculatorWeb\\CalculatorWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CalculatorWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-01T23:41:46.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Addition.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\CalculatorWeb\\CalculatorWeb\\Models\\Addition.cs",
+              "RelativeDocumentMoniker": "CalculatorWeb\\Models\\Addition.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\CalculatorWeb\\CalculatorWeb\\Models\\Addition.cs",
+              "RelativeToolTip": "CalculatorWeb\\Models\\Addition.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T23:18:00.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\CalculatorWeb\\CalculatorWeb\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CalculatorWeb\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\CalculatorWeb\\CalculatorWeb\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CalculatorWeb\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-01T23:37:44.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\CalculatorWeb\\CalculatorWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CalculatorWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\CalculatorWeb\\CalculatorWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CalculatorWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T23:25:14.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\CalculatorWeb\\CalculatorWeb\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "CalculatorWeb\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\CalculatorWeb\\CalculatorWeb\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "CalculatorWeb\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T23:17:44.349Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

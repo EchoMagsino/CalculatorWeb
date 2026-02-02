@@ -1,0 +1,29 @@
+﻿@model Subtraction
+@{
+    ViewData["Title"] = "Subtraction";
+}
+
+<h1>Subtraction</h1>
+
+<form method="post">
+    <div>
+        <label class="form-label" asp-for="FirstNumber">FirstNumber</label>
+        <input class="form-control" asp-for="FirstNumber" />
+    </div>
+    <div>
+        <label class="form-label" asp-for="SecondNumber">SecondNumber</label>
+        <input class="form-control" asp-for="SecondNumber" />
+    </div>
+    <div>
+        <label class="form-label" asp-for="Difference">Difference</label>
+        <input class="form-control" value="@Model.Difference" readonly/>
+    </div>
+    <div>
+        <button class="btn btn-dark" type="submit">Calculate</button>
+    </div>
+    <div>
+        <a class="btn btn-secondary" asp-area="" asp-controller="Subtraction" asp-action="Index">Clear</a>
+    </div>
+
+
+</form>
