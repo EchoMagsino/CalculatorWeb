@@ -31,3 +31,4 @@ C:\Users\Lenovo\source\repos\CalculatorWeb\CalculatorWeb\obj\Debug\net8.0\refint
 C:\Users\Lenovo\source\repos\CalculatorWeb\CalculatorWeb\obj\Debug\net8.0\CalculatorWeb.pdb
 C:\Users\Lenovo\source\repos\CalculatorWeb\CalculatorWeb\obj\Debug\net8.0\CalculatorWeb.genruntimeconfig.cache
 C:\Users\Lenovo\source\repos\CalculatorWeb\CalculatorWeb\obj\Debug\net8.0\ref\CalculatorWeb.dll
+C:\Users\Lenovo\source\repos\CalculatorWeb\CalculatorWeb\obj\Debug\net8.0\CalculatorWeb.sourcelink.json
