@@ -1,0 +1,11 @@
+# Ignore Visual Studio cache and temp files
+.vs/
+*.vsidx
+*.user
+*.suo
+bin/
+obj/
+
+
+
+
