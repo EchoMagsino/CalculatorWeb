@@ -6,13 +6,10 @@
 
         public int SecondNumber { get; set; }
 
-        public int Sum { get; set; }
+        public int Sum => FirstNumber + SecondNumber;
 
         //public int Sum => FirstNumber + SecondNumber;
 
-        public void CalculateSum()
-        {
-            Sum = FirstNumber + SecondNumber;
-        }
+
     }
 }

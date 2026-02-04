@@ -8,9 +8,9 @@ namespace CalculatorWeb.Controllers
         [HttpGet]
         public IActionResult Index()
         {
-            Multiplication multiplication = new Multiplication();
+           
 
-            return View(multiplication);
+            return View();
         }
 
         [HttpPost]

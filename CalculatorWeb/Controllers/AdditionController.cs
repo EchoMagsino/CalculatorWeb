@@ -9,17 +9,15 @@ namespace CalculatorWeb.Controllers
         public IActionResult Index()
         {
             
-            ViewBag.Title = "Addition Calculator";
-            Addition addition = new Addition();
-            addition.Sum = 0;
-            return View(addition);
+       
+            return View();
         }
 
         [HttpPost]
 
         public IActionResult Index(Addition a1) 
         {
-            a1.CalculateSum();
+            
 
             return View(a1);
         }

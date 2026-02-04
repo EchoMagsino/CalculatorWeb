@@ -7,15 +7,13 @@ namespace CalculatorWeb.Controllers
         [HttpGet]
         public IActionResult Index()
         {
-            Subtraction subtraction = new Subtraction();
-            subtraction.Difference = 0;
-            return View(subtraction);
+           
+            return View();
         }
 
         [HttpPost]
         public IActionResult Index(Subtraction s1)
         { 
-            s1.CalculateDifference();
             return View(s1);
 
         }
